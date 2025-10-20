@@ -1,0 +1,29 @@
+{
+  "name": "pmwavecore",
+  "version": "0.1.0",
+  "description": "Wavecore Project Management - Core Application for www.wavecorepm.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "echo \"Development server not yet configured\"",
+    "build": "echo \"Build not yet configured\"",
+    "start": "echo \"Start command not yet configured\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fincloud9/PMWAVECORE.git"
+  },
+  "keywords": [
+    "project-management",
+    "wavecore",
+    "pm",
+    "collaboration",
+    "task-management"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fincloud9/PMWAVECORE/issues"
+  },
+  "homepage": "https://www.wavecorepm.com"
+}
